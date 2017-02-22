@@ -1,6 +1,5 @@
 {
   "name": "test-app",
   "dependencies": {
-    "bootstrap": "~3.3.6"
   }
 }
